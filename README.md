@@ -1,3 +1,19 @@
+<h1 align="center">Hi there, I'm Sampurn Samadder 👋</h1>
+<h3 align="center">Full Stack Developer | MERN & GenAI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%2B+Next.js+Builder;GenAI+%26+API+Enthusiast;Always+Debugging+a+Missing+%3B" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sampurn-samadder-841a83283"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/SAMPURN78012509"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/sampurn_1706"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:sampurn.samadder@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
 # 💫 About Me:
 🔭 Currently working on: Full-stack apps & GenAI projects<br>👯 Looking to collaborate on: Cool software projects & open source<br>🤝 Looking for help with: DSA & system design<br>🌱 Currently learning: App development, Docker & advanced DSA<br>💬 Ask me about: MERN, Next.js, GenAI & APIs<br>⚡ Fun fact: I can spend 3 hours debugging a bug that was a missing ;
 
@@ -12,8 +28,6 @@
 ![](https://streak-stats.demolab.com/?user=Sampurn17&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sampurn17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Sampurn17&icon=3&color=0)](https://visitcount.itsvg.in)
